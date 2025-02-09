@@ -1,0 +1,150 @@
+# Environment and IDE
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+!schema.sql
+!migrations/*.sql
+*.mdb
+*.pdb
+*.db-journal
+
+# Data and ML
+data/
+raw_data/
+processed_data/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.joblib
+*.h5
+*.model
+*.weights
+models/
+!models/.gitkeep
+notebooks/.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Logs and temporary files
+logs/
+*.log
+temp/
+tmp/
+.temp/
+.tmp/
+
+# API
+api_keys.yaml
+api_config.json
+credentials.json
+*_credentials.*
+secrets.yaml
+*.pem
+*.key
+*.crt
+
+# Frontend
+node_modules/
+bower_components/
+*.min.js
+*.min.css
+static/generated/
+static/dist/
+static/build/
+*.map
+
+# Documentation
+docs/_build/
+site/
+
+# Virtual Environment
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Backup files
+*.bak
+*.backup
+*~
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+# Add your custom patterns here
+ml_outputs/
+predictions/
+feature_store/
+experiment_tracking/
+model_registry/
