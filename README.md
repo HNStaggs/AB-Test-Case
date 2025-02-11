@@ -13,6 +13,7 @@ To assess the impact of the potential update, an AB test is conducted.
 ### Research Questions
 1. Which website layout leads to higher order frequency?
 2. How long do users spend on the site in relation to placing an order?
+3. How does new layout impact returning users?
 
 ### Success Metrics
 - Primary: Sale frequency
@@ -37,20 +38,21 @@ To assess the impact of the potential update, an AB test is conducted.
 ### Key Insights
 1. Organized tabs led to quicker navigation and product finding.
 2. Organized tabs led to more items being added to cart.
+3. Returning users and new users had more sales with new layout.
 
 ## 💡 Recommendations
 1. Deploy new website design.
-2. Update 
 
 ## 📈 Impact & Next Steps
 ### Business Impact
-- Projected 12% increase in user retention
-- Estimated $200K annual revenue impact
+- Projected XX% increase in sale conversion rate
+- Estimated $XXXk annual revenue impact
 
 ### Next Steps
 1. Roll out new navigation to all users
-2. Monitor long-term impact
+2. Monitor long-term impact especially during different seasons 
 3. Plan follow-up research for edge cases
+4. Assess returning user rate post-launch
 
 ## 📝 Notes
 - All data is synthetic and created for this portfolio example
