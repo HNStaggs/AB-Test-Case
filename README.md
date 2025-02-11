@@ -1,3 +1,5 @@
+Copyright (c) 2024 Halee Staggs
+This project and its contents are protected under copyright law.
 
 ## 🎯 Business Context & Goals
 ### Problem Statement
