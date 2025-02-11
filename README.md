@@ -2,7 +2,7 @@
 ## 🎯 Business Context & Goals
 ### Problem Statement
 Pupperoni Pizza is a (fictitious) company specializing in pizza-themed dog accessories. 
-Even though traffic has remained steady around 10,000 visits per month, sales have declined.
+Even though traffic has remained steady at 10,000 visits per month on average, sales have declined.
 Company leadership thinks that modernzing the website could help.
 To assess the impact of the potential update, an AB test is conducted.
 
@@ -21,12 +21,12 @@ To assess the impact of the potential update, an AB test is conducted.
 ## 🔍 Research Design
 ### Test Variations
 - **Control (A)**: Current layout with single page listing all available products in alphabetical order.
-- **Treatment (B)**: 5 tab layout with primary product categories - collars, leashes, beds, t-shirts, and stuffed toys.
+- **Treatment (B)**: 5 tab navigation layout with primary product categories - collars, leashes, beds, t-shirts, and stuffed toys.
 
 ### Methodology
-- Test Duration: 2 weeks, based on historical traffic patterns
-- Sample Size: 2000 users per variation - 4000 total
-- Random Assignment: 50/50 split
+- Target sample size from power calculation from baseline sale conversion rate = 4000
+- Test Duration: 27 days = 4000(N) / (300/day * 0.5)
+- Random Assignment: 50/50 split of incoming traffic (2000/2000)
 - Confidence Level: 95%
 
 ## 📊 Analysis & Findings
