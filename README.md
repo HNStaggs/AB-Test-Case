@@ -1,10 +1,10 @@
-![Python](https://img.shields.io/badge/python-3.9-blue.svg)
+![Python](https://img.shields.io/badge/python-3.13-blue.svg)
 ![Black](https://img.shields.io/badge/code%20style-black-000000.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Scikit-learn](https://img.shields.io/badge/ML-scikit--learn-F7931E.svg)
-![Pandas](https://img.shields.io/badge/pandas-1.5.3-150458.svg)
-![NumPy](https://img.shields.io/badge/numpy-1.24.2-013243.svg)
-![Matplotlib](https://img.shields.io/badge/matplotlib-3.7.1-11557c.svg)
+![Pandas](https://img.shields.io/badge/pandas-2.3.3-150458.svg)
+![NumPy](https://img.shields.io/badge/numpy-2.2.2-013243.svg)
+![Matplotlib](https://img.shields.io/badge/matplotlib-3.10.0-11557c.svg)
 
 ## 🎯 Business Context & Goals
 ### Problem Statement
