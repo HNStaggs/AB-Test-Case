@@ -19,17 +19,16 @@ To assess the impact of the potential update, an AB test is conducted.
 
 ### Research Questions
 1. Which website layout leads to higher order frequency?
-2. How long do users spend on the site in relation to placing an order?
-3. How does new layout impact returning users?
+2. Which website layout is more efficient for customers?
 
 ### Success Metrics
-- Primary: Sale frequency
-- Secondary: Engagement in relation to sale
+- Primary: Sale conversion rate
+- Secondary: Website engagement time
 
 ## 🔍 Research Design
 ### Test Variations
 - **Control (A)**: Current layout with single page listing all available products in alphabetical order.
-- **Treatment (B)**: 5 tab navigation layout with primary product categories - collars, leashes, beds, t-shirts, and stuffed toys.
+- **Treatment (B)**: 4 tab navigation layout with primary product categories - collars, leashes, beds, and stuffed toys.
 
 ### Methodology
 - Target sample size from power calculation from baseline sale conversion rate = 4000
@@ -39,23 +38,15 @@ To assess the impact of the potential update, an AB test is conducted.
 
 ## 📊 Analysis & Findings
 ### Quantitative Results
-- 23% increase in time spent in app (Treatment B)
-- 15% improvement in task completion rate
+- 38.7% increase in sale rate for the treatment condition (p < .001, medium effect)
+- Users in treatment condition spend 4.98 less minutes on site on the average (p < .001, medium effect)
 
 ### Key Insights
 1. Organized tabs led to quicker navigation and product finding.
 2. Organized tabs led to more items being added to cart.
-3. Returning users and new users had more sales with new layout.
+3. Organized tabs led to more sales. 
 
 ## 💡 Recommendations
-1. Deploy new website design.
-
-## 📈 Impact & Next Steps
-### Business Impact
-- Projected XX% increase in sale conversion rate
-- Estimated $XXXk annual revenue impact
-
-### Next Steps
 1. Roll out new navigation to all users
 2. Monitor long-term impact especially during different seasons 
 3. Plan follow-up research for edge cases
