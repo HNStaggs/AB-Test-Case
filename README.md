@@ -17,13 +17,17 @@ To assess the impact of the potential update, an AB test is conducted.
 - **Data**: All data is synthetic and created with algorithms.
 - **Methods**: Univariate A/B Testing, Quantitative Analysis.
 
-### Research Questions
-1. Which website layout leads to higher order frequency?
-2. Which website layout is more efficient for customers?
+### Research Questions & Hypotheses
+1. Which website layout leads to higher sale conversion?
+   -Null hypothesis: There is no difference in order frequency between the two website versions.
+   -Alternative hypothesis: There is a difference in order frequency between the two website versions.
+2. Which website layout is more efficient, in terms of time spent on website, for customers?
+   -Null hypothesis: There is no difference in site navigation time between the two website versions.
+   -Alternative hypothesis: There is a difference in site navigation time between the two website versions.
 
 ### Success Metrics
 - Primary: Sale conversion rate
-- Secondary: Website engagement time
+- Secondary: Website navigation time
 
 ## 🔍 Research Design
 ### Test Variations
@@ -31,7 +35,7 @@ To assess the impact of the potential update, an AB test is conducted.
 - **Treatment (B)**: 4 tab navigation layout with primary product categories - collars, leashes, beds, and stuffed toys.
 
 ### Methodology
-- Target sample size from power calculation from baseline sale conversion rate = 4000
+- Target sample size from power calculation (0.8) from baseline sale conversion rate = 4000
 - Test Duration: 27 days = 4000(N) / (300/day * 0.5)
 - Random Assignment: 50/50 split of incoming traffic (2000/2000)
 - Confidence Level: 95%
