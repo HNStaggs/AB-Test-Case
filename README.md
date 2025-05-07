@@ -19,11 +19,11 @@ To assess the impact of the potential update, an AB test is conducted.
 
 ### Research Questions & Hypotheses
 1. Which website layout leads to higher sale conversion?
-   a. Null hypothesis: There is no difference in order frequency between the two website versions.
-   b. Alternative hypothesis: There is a difference in order frequency between the two website versions.
+   \na. Null hypothesis: There is no difference in order frequency between the two website versions.
+   \nb. Alternative hypothesis: There is a difference in order frequency between the two website versions.
 2. Which website layout is more efficient, in terms of time spent on website, for customers?
-   a. Null hypothesis: There is no difference in site navigation time between the two website versions.
-   b. Alternative hypothesis: There is a difference in site navigation time between the two website versions.
+   \na. Null hypothesis: There is no difference in site navigation time between the two website versions.
+   \nb. Alternative hypothesis: There is a difference in site navigation time between the two website versions.
 
 ### Success Metrics
 - Primary: Sale conversion rate
