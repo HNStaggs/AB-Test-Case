@@ -5,14 +5,14 @@
 ![NumPy](https://img.shields.io/badge/numpy-2.2.2-013243.svg)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-3.10.0-11557c.svg)
 
-## 🎯 Business Context & Goals
+## Business Context & Goals
 ### Problem Statement
 Pupperoni Pizza is a (fictitious) company specializing in pizza-themed dog accessories. 
 Even though traffic has remained steady at 10,000 visits per month on average, sales have declined.
 Company leadership thinks that modernzing the website could help.
 To assess the impact of the potential update, an AB test is conducted.
 
-## 📌 Project Overview
+## Project Overview
 - **Data**: All data is synthetic and created with algorithms.
 - **Methods**: Univariate A/B Testing, Quantitative Analysis.
 
@@ -28,7 +28,7 @@ To assess the impact of the potential update, an AB test is conducted.
 - Primary: Sale conversion rate
 - Secondary: Website navigation time
 
-## 🔍 Research Design
+## Research Design
 ### Test Variations
 - **Control (A)**: Current layout with single page listing all available products in alphabetical order.
 - **Treatment (B)**: 4 tab navigation layout with primary product categories - collars, leashes, beds, and stuffed toys.
@@ -39,7 +39,7 @@ To assess the impact of the potential update, an AB test is conducted.
 - Random Assignment: 50/50 split of incoming traffic (2000/2000)
 - Confidence Level: 95%
 
-## 📊 Analysis & Findings
+## Analysis & Findings
 ### Quantitative Results
 - 38.7% increase in sale rate for the treatment condition (p < .001, medium effect)
 - Users in treatment condition spend 4.98 less minutes on site on the average (p < .001, medium effect)
@@ -49,7 +49,7 @@ To assess the impact of the potential update, an AB test is conducted.
 2. Organized tabs led to more items being added to cart.
 3. Organized tabs led to more sales. 
 
-## 💡 Recommendations
+## Recommendations
 1. Roll out new navigation to all users
 2. Monitor long-term impact especially during different seasons 
 3. Plan follow-up research for edge cases
@@ -58,3 +58,4 @@ To assess the impact of the potential update, an AB test is conducted.
 ## 📝 Notes
 - All data is synthetic and created for this portfolio example
 - Project showcases research process and methodology 
+
